@@ -2,5 +2,5 @@
 unitedLayer task
 
 ## will require more effort to get proper o/p 
-## done in a hour long codesprint
+## done in a short codesprint
 ## cant invest time due to endsems
